@@ -1,7 +1,7 @@
 [
   {
     "name": "Normal",
-    "main": "Application",
+    "main": "net.runelite.client.RuneLite",
     "bootstrap": "https://raw.githubusercontent.com/Discovers1/hosting/refs/heads/main/client/live/bootstrap.json",
     "bootstrapsig": "https://raw.githubusercontent.com/Discovers1/hosting/refs/heads/main/client/live/bootstrap.json.sha256",
     "tooltip": "The Latest most stable Client"
