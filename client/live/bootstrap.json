@@ -78,10 +78,10 @@
   ],
   "artifacts": [
     {
-      "hash": "160d6c6eaa531b009c3ea8a0614c40a10cd5a3c2948b182d5472cd64f907b09a",
+      "hash": "3745fba109c93c0de21a18c133b5d97aef6b6100dbb12f8aa9c2a1bac48e06e0",
       "name": "game-1.0.jar",
       "path": "https://github.com/Discovers1/hosting/raw/main/client/live/repo/game-1.0.jar",
-      "size": 1696263
+      "size": 1695108
     },
     {
       "hash": "05b62804441b0c9a1920b6b7d5cf7329a4e24b6258478e32b1f046ca01900946",
@@ -108,12 +108,6 @@
       "size": 286235
     },
     {
-      "hash": "91e5a883c2ef48c8494d71ed55b61a96b0f06aa58c6b3e87f86a83c7b29abe31",
-      "name": "java-discord-rpc-v2.0.1.jar",
-      "path": "https://repo.maven.apache.org/maven2/com/github/MinnDevelopment/java-discord-rpc/v2.0.1/java-discord-rpc-v2.0.1.jar",
-      "size": 7203
-    },
-    {
       "hash": "770cd903fa7b604d1f7ef7ba17f84108667294b2b478be8ed1af3bffb4ae0018",
       "name": "commons-text-1.10.0.jar",
       "path": "https://repo.maven.apache.org/maven2/org/apache/commons/commons-text/1.10.0/commons-text-1.10.0.jar",
@@ -124,12 +118,6 @@
       "name": "commons-lang3-3.12.0.jar",
       "path": "https://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar",
       "size": 587402
-    },
-    {
-      "hash": "95e9d2a3629d2d34d3f7ba9ad3055d578c4a204a89d1e93a12f6f351a91cb4b4",
-      "name": "Alertify4J-master.jar",
-      "path": "https://repo.maven.apache.org/maven2/com/github/ryleykimmel/Alertify4J/master/Alertify4J-master.jar",
-      "size": 67413
     },
     {
       "hash": "d3584bc2db03f059f984fb0a9c119aac1fa0da578a448e69fc3f68b36584c749",
@@ -210,18 +198,6 @@
       "size": 17536
     },
     {
-      "hash": "c4dadeeecaa90c8847902082aee5eb107fcf59c5d0e63a17fcaf273c0e2d2bd1",
-      "name": "jna-4.4.0.jar",
-      "path": "https://repo.maven.apache.org/maven2/net/java/dev/jna/jna/4.4.0/jna-4.4.0.jar",
-      "size": 1091208
-    },
-    {
-      "hash": "0e9d2dde9d96761acb3b6ca1420d96a5499672c9d5ad313f01c40aec854451e2",
-      "name": "discord-rpc-release-v3.3.0.jar",
-      "path": "https://repo.maven.apache.org/maven2/club/minnced/discord-rpc-release/v3.3.0/discord-rpc-release-v3.3.0.jar",
-      "size": 609446
-    },
-    {
       "hash": "91c77044a50c481636c32d916fd89c9118a72195390452c81065080f957de7ff",
       "name": "javax.inject-1.jar",
       "path": "https://repo.maven.apache.org/maven2/javax/inject/javax.inject/1/javax.inject-1.jar",
@@ -278,15 +254,13 @@
   ],
   "updates": [],
   "dependencyHashes": {
-    "game-1.0.jar": "160d6c6eaa531b009c3ea8a0614c40a10cd5a3c2948b182d5472cd64f907b09a",
+    "game-1.0.jar": "3745fba109c93c0de21a18c133b5d97aef6b6100dbb12f8aa9c2a1bac48e06e0",
     "kotlin-stdlib-jdk8-1.8.0.jar": "05b62804441b0c9a1920b6b7d5cf7329a4e24b6258478e32b1f046ca01900946",
     "kotlin-stdlib-jdk7-1.8.0.jar": "4c889d1d9803f5f2eb6c1592a6b7e62369ac7660c9eee15aba16fec059163666",
     "kotlin-stdlib-1.8.0.jar": "c77bef8774640b9fb9d6e217459ff220dae59878beb7d2e4b430506feffc654e",
     "gson-2.10.jar": "0cdd163ce3598a20fc04eee71b140b24f6f2a3b35f0a499dbbdd9852e83fbfaf",
-    "java-discord-rpc-v2.0.1.jar": "91e5a883c2ef48c8494d71ed55b61a96b0f06aa58c6b3e87f86a83c7b29abe31",
     "commons-text-1.10.0.jar": "770cd903fa7b604d1f7ef7ba17f84108667294b2b478be8ed1af3bffb4ae0018",
     "commons-lang3-3.12.0.jar": "d919d904486c037f8d193412da0c92e22a9fa24230b9d67a57855c5c31c7e94e",
-    "Alertify4J-master.jar": "95e9d2a3629d2d34d3f7ba9ad3055d578c4a204a89d1e93a12f6f351a91cb4b4",
     "lombok-1.18.24.jar": "d3584bc2db03f059f984fb0a9c119aac1fa0da578a448e69fc3f68b36584c749",
     "slf4j-api-2.0.5.jar": "f4a2974509291acc49fda4a79b0d59e15e2b524095d6421c66391b92387af4c9",
     "javax.servlet-api-4.0.1.jar": "83a03dd877d3674576f0da7b90755c8524af099ccf0607fc61aa971535ad7c60",
@@ -300,8 +274,6 @@
     "trident-1.5.00.jar": "3214e1c23d549d5d67c91da4da1ef33c5248470bb824f91cbe8f9e0beea59eef",
     "kotlin-stdlib-common-1.8.0.jar": "78ef93b59e603cc0fe51def9bd4c037b07cbace3b3b7806d1a490a42bc1f4cb2",
     "annotations-13.0.jar": "ace2a10dc8e2d5fd34925ecac03e4988b2c0f851650c94b8cef49ba1bd111478",
-    "jna-4.4.0.jar": "c4dadeeecaa90c8847902082aee5eb107fcf59c5d0e63a17fcaf273c0e2d2bd1",
-    "discord-rpc-release-v3.3.0.jar": "0e9d2dde9d96761acb3b6ca1420d96a5499672c9d5ad313f01c40aec854451e2",
     "javax.inject-1.jar": "91c77044a50c481636c32d916fd89c9118a72195390452c81065080f957de7ff",
     "aopalliance-1.0.jar": "0addec670fedcd3f113c5c8091d783280d23f75e3acb841b61a9cdb079376a08",
     "guava-30.1-jre.jar": "e6dd072f9d3fe02a4600688380bd422bdac184caf6fe2418cfdd0934f09432aa",
