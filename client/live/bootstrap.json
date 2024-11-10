@@ -78,46 +78,28 @@
   ],
   "artifacts": [
     {
+      "hash": "8fd7b34e2cce3bfa8ca82b701bd279fb4e083a66798c48e3056d7f2a997f57d0",
+      "name": "game-1.0.jar",
+      "path": "https://github.com/Discovers1/hosting/raw/main/client/live/repo/game-1.0.jar",
+      "size": 1563480
+    },
+    {
       "hash": "05b62804441b0c9a1920b6b7d5cf7329a4e24b6258478e32b1f046ca01900946",
       "name": "kotlin-stdlib-jdk8-1.8.0.jar",
       "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk8/1.8.0/kotlin-stdlib-jdk8-1.8.0.jar",
       "size": 968
     },
     {
-      "hash": "af625a0b813f051bcb5bd1f00a35af61648264d7b792aabcff032f57dfbfa9a4",
-      "name": "javafx-controls-11-win.jar",
-      "path": "https://repo.maven.apache.org/maven2/org/openjfx/javafx-controls/11/javafx-controls-11-win.jar",
-      "size": 2511103
+      "hash": "4c889d1d9803f5f2eb6c1592a6b7e62369ac7660c9eee15aba16fec059163666",
+      "name": "kotlin-stdlib-jdk7-1.8.0.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.8.0/kotlin-stdlib-jdk7-1.8.0.jar",
+      "size": 963
     },
     {
-      "hash": "dec3f34ca06ca9be71ce8c72646a31eb751b1df5a2b354dcd10fb64df842da4f",
-      "name": "javafx-controls-11.jar",
-      "path": "https://repo.maven.apache.org/maven2/org/openjfx/javafx-controls/11/javafx-controls-11.jar",
-      "size": 306
-    },
-    {
-      "hash": "5a278411a777a1215b1b6c0c6c2192c94857fe0253a6de805c67a9c9d29d29d1",
-      "name": "javafx-graphics-11-win.jar",
-      "path": "https://repo.maven.apache.org/maven2/org/openjfx/javafx-graphics/11/javafx-graphics-11-win.jar",
-      "size": 6016908
-    },
-    {
-      "hash": "6b846071b1fdae103f1b0e80c988d9d0b9cae37391b00f8ea3dc11e1e8e021b0",
-      "name": "javafx-graphics-11.jar",
-      "path": "https://repo.maven.apache.org/maven2/org/openjfx/javafx-graphics/11/javafx-graphics-11.jar",
-      "size": 306
-    },
-    {
-      "hash": "901e382f96b53c91a949f91b07201ec5433bf3c864186cb50446a6b0951aa778",
-      "name": "javafx-base-11-win.jar",
-      "path": "https://repo.maven.apache.org/maven2/org/openjfx/javafx-base/11/javafx-base-11-win.jar",
-      "size": 750040
-    },
-    {
-      "hash": "df7ef2e994be4a86153be0aaf0dcafa697ba4be0db55caefb8bda85e02d66ead",
-      "name": "javafx-base-11.jar",
-      "path": "https://repo.maven.apache.org/maven2/org/openjfx/javafx-base/11/javafx-base-11.jar",
-      "size": 302
+      "hash": "c77bef8774640b9fb9d6e217459ff220dae59878beb7d2e4b430506feffc654e",
+      "name": "kotlin-stdlib-1.8.0.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/1.8.0/kotlin-stdlib-1.8.0.jar",
+      "size": 1636558
     },
     {
       "hash": "0cdd163ce3598a20fc04eee71b140b24f6f2a3b35f0a499dbbdd9852e83fbfaf",
@@ -180,22 +162,52 @@
       "size": 1589195
     },
     {
+      "hash": "af625a0b813f051bcb5bd1f00a35af61648264d7b792aabcff032f57dfbfa9a4",
+      "name": "javafx-controls-11-win.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/openjfx/javafx-controls/11/javafx-controls-11-win.jar",
+      "size": 2511103
+    },
+    {
+      "hash": "5a278411a777a1215b1b6c0c6c2192c94857fe0253a6de805c67a9c9d29d29d1",
+      "name": "javafx-graphics-11-win.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/openjfx/javafx-graphics/11/javafx-graphics-11-win.jar",
+      "size": 6016908
+    },
+    {
+      "hash": "6b846071b1fdae103f1b0e80c988d9d0b9cae37391b00f8ea3dc11e1e8e021b0",
+      "name": "javafx-graphics-11.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/openjfx/javafx-graphics/11/javafx-graphics-11.jar",
+      "size": 306
+    },
+    {
+      "hash": "901e382f96b53c91a949f91b07201ec5433bf3c864186cb50446a6b0951aa778",
+      "name": "javafx-base-11-win.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/openjfx/javafx-base/11/javafx-base-11-win.jar",
+      "size": 750040
+    },
+    {
+      "hash": "df7ef2e994be4a86153be0aaf0dcafa697ba4be0db55caefb8bda85e02d66ead",
+      "name": "javafx-base-11.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/openjfx/javafx-base/11/javafx-base-11.jar",
+      "size": 302
+    },
+    {
       "hash": "3214e1c23d549d5d67c91da4da1ef33c5248470bb824f91cbe8f9e0beea59eef",
       "name": "trident-1.5.00.jar",
       "path": "https://repo.runelite.net/net/runelite/pushingpixels/trident/1.5.00/trident-1.5.00.jar",
       "size": 79726
     },
     {
-      "hash": "4c889d1d9803f5f2eb6c1592a6b7e62369ac7660c9eee15aba16fec059163666",
-      "name": "kotlin-stdlib-jdk7-1.8.0.jar",
-      "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-jdk7/1.8.0/kotlin-stdlib-jdk7-1.8.0.jar",
-      "size": 963
+      "hash": "78ef93b59e603cc0fe51def9bd4c037b07cbace3b3b7806d1a490a42bc1f4cb2",
+      "name": "kotlin-stdlib-common-1.8.0.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-common/1.8.0/kotlin-stdlib-common-1.8.0.jar",
+      "size": 217441
     },
     {
-      "hash": "c77bef8774640b9fb9d6e217459ff220dae59878beb7d2e4b430506feffc654e",
-      "name": "kotlin-stdlib-1.8.0.jar",
-      "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib/1.8.0/kotlin-stdlib-1.8.0.jar",
-      "size": 1636558
+      "hash": "ace2a10dc8e2d5fd34925ecac03e4988b2c0f851650c94b8cef49ba1bd111478",
+      "name": "annotations-13.0.jar",
+      "path": "https://repo.maven.apache.org/maven2/org/jetbrains/annotations/13.0/annotations-13.0.jar",
+      "size": 17536
     },
     {
       "hash": "c4dadeeecaa90c8847902082aee5eb107fcf59c5d0e63a17fcaf273c0e2d2bd1",
@@ -226,18 +238,6 @@
       "name": "guava-30.1-jre.jar",
       "path": "https://repo.maven.apache.org/maven2/com/google/guava/guava/30.1-jre/guava-30.1-jre.jar",
       "size": 2862361
-    },
-    {
-      "hash": "78ef93b59e603cc0fe51def9bd4c037b07cbace3b3b7806d1a490a42bc1f4cb2",
-      "name": "kotlin-stdlib-common-1.8.0.jar",
-      "path": "https://repo.maven.apache.org/maven2/org/jetbrains/kotlin/kotlin-stdlib-common/1.8.0/kotlin-stdlib-common-1.8.0.jar",
-      "size": 217441
-    },
-    {
-      "hash": "ace2a10dc8e2d5fd34925ecac03e4988b2c0f851650c94b8cef49ba1bd111478",
-      "name": "annotations-13.0.jar",
-      "path": "https://repo.maven.apache.org/maven2/org/jetbrains/annotations/13.0/annotations-13.0.jar",
-      "size": 17536
     },
     {
       "hash": "a171ee4c734dd2da837e4b16be9df4661afab72a41adaf31eb84dfdaf936ca26",
@@ -278,13 +278,10 @@
   ],
   "updates": [],
   "dependencyHashes": {
+    "game-1.0.jar": "8fd7b34e2cce3bfa8ca82b701bd279fb4e083a66798c48e3056d7f2a997f57d0",
     "kotlin-stdlib-jdk8-1.8.0.jar": "05b62804441b0c9a1920b6b7d5cf7329a4e24b6258478e32b1f046ca01900946",
-    "javafx-controls-11-win.jar": "af625a0b813f051bcb5bd1f00a35af61648264d7b792aabcff032f57dfbfa9a4",
-    "javafx-controls-11.jar": "dec3f34ca06ca9be71ce8c72646a31eb751b1df5a2b354dcd10fb64df842da4f",
-    "javafx-graphics-11-win.jar": "5a278411a777a1215b1b6c0c6c2192c94857fe0253a6de805c67a9c9d29d29d1",
-    "javafx-graphics-11.jar": "6b846071b1fdae103f1b0e80c988d9d0b9cae37391b00f8ea3dc11e1e8e021b0",
-    "javafx-base-11-win.jar": "901e382f96b53c91a949f91b07201ec5433bf3c864186cb50446a6b0951aa778",
-    "javafx-base-11.jar": "df7ef2e994be4a86153be0aaf0dcafa697ba4be0db55caefb8bda85e02d66ead",
+    "kotlin-stdlib-jdk7-1.8.0.jar": "4c889d1d9803f5f2eb6c1592a6b7e62369ac7660c9eee15aba16fec059163666",
+    "kotlin-stdlib-1.8.0.jar": "c77bef8774640b9fb9d6e217459ff220dae59878beb7d2e4b430506feffc654e",
     "gson-2.10.jar": "0cdd163ce3598a20fc04eee71b140b24f6f2a3b35f0a499dbbdd9852e83fbfaf",
     "java-discord-rpc-v2.0.1.jar": "91e5a883c2ef48c8494d71ed55b61a96b0f06aa58c6b3e87f86a83c7b29abe31",
     "commons-text-1.10.0.jar": "770cd903fa7b604d1f7ef7ba17f84108667294b2b478be8ed1af3bffb4ae0018",
@@ -295,16 +292,19 @@
     "javax.servlet-api-4.0.1.jar": "83a03dd877d3674576f0da7b90755c8524af099ccf0607fc61aa971535ad7c60",
     "guice-5.1.0.jar": "4130e50bfac48099c860f0d903b91860c81a249c90f38245f8fed58fc817bc26",
     "substance-8.0.02.jar": "0467d25f408428824d5c9c09ec60ee1f0bc341d9bf48971a77fd14939a826c83",
+    "javafx-controls-11-win.jar": "af625a0b813f051bcb5bd1f00a35af61648264d7b792aabcff032f57dfbfa9a4",
+    "javafx-graphics-11-win.jar": "5a278411a777a1215b1b6c0c6c2192c94857fe0253a6de805c67a9c9d29d29d1",
+    "javafx-graphics-11.jar": "6b846071b1fdae103f1b0e80c988d9d0b9cae37391b00f8ea3dc11e1e8e021b0",
+    "javafx-base-11-win.jar": "901e382f96b53c91a949f91b07201ec5433bf3c864186cb50446a6b0951aa778",
+    "javafx-base-11.jar": "df7ef2e994be4a86153be0aaf0dcafa697ba4be0db55caefb8bda85e02d66ead",
     "trident-1.5.00.jar": "3214e1c23d549d5d67c91da4da1ef33c5248470bb824f91cbe8f9e0beea59eef",
-    "kotlin-stdlib-jdk7-1.8.0.jar": "4c889d1d9803f5f2eb6c1592a6b7e62369ac7660c9eee15aba16fec059163666",
-    "kotlin-stdlib-1.8.0.jar": "c77bef8774640b9fb9d6e217459ff220dae59878beb7d2e4b430506feffc654e",
+    "kotlin-stdlib-common-1.8.0.jar": "78ef93b59e603cc0fe51def9bd4c037b07cbace3b3b7806d1a490a42bc1f4cb2",
+    "annotations-13.0.jar": "ace2a10dc8e2d5fd34925ecac03e4988b2c0f851650c94b8cef49ba1bd111478",
     "jna-4.4.0.jar": "c4dadeeecaa90c8847902082aee5eb107fcf59c5d0e63a17fcaf273c0e2d2bd1",
     "discord-rpc-release-v3.3.0.jar": "0e9d2dde9d96761acb3b6ca1420d96a5499672c9d5ad313f01c40aec854451e2",
     "javax.inject-1.jar": "91c77044a50c481636c32d916fd89c9118a72195390452c81065080f957de7ff",
     "aopalliance-1.0.jar": "0addec670fedcd3f113c5c8091d783280d23f75e3acb841b61a9cdb079376a08",
     "guava-30.1-jre.jar": "e6dd072f9d3fe02a4600688380bd422bdac184caf6fe2418cfdd0934f09432aa",
-    "kotlin-stdlib-common-1.8.0.jar": "78ef93b59e603cc0fe51def9bd4c037b07cbace3b3b7806d1a490a42bc1f4cb2",
-    "annotations-13.0.jar": "ace2a10dc8e2d5fd34925ecac03e4988b2c0f851650c94b8cef49ba1bd111478",
     "failureaccess-1.0.1.jar": "a171ee4c734dd2da837e4b16be9df4661afab72a41adaf31eb84dfdaf936ca26",
     "listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar": "b372a037d4230aa57fbeffdef30fd6123f9c0c2db85d0aced00c91b974f33f99",
     "jsr305-3.0.2.jar": "766ad2a0783f2687962c8ad74ceecc38a28b9f72a2d085ee438b7813e928d0c7",
