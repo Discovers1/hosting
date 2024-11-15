@@ -78,10 +78,10 @@
   ],
   "artifacts": [
     {
-      "hash": "3f2e3cf81fe0a2b54ba6c727129da2aa55e6b48c2a524f49fb58c5a27597ca75",
+      "hash": "ffb544a6abca9b646ccb1eda8272b86a7eaf35064a79c2c8c01cd44445e1a44b",
       "name": "game-1.0.jar",
       "path": "https://github.com/Discovers1/hosting/raw/main/client/live/repo/game-1.0.jar",
-      "size": 1726084
+      "size": 1726197
     },
     {
       "hash": "05b62804441b0c9a1920b6b7d5cf7329a4e24b6258478e32b1f046ca01900946",
@@ -254,7 +254,7 @@
   ],
   "updates": [],
   "dependencyHashes": {
-    "game-1.0.jar": "3f2e3cf81fe0a2b54ba6c727129da2aa55e6b48c2a524f49fb58c5a27597ca75",
+    "game-1.0.jar": "ffb544a6abca9b646ccb1eda8272b86a7eaf35064a79c2c8c01cd44445e1a44b",
     "kotlin-stdlib-jdk8-1.8.0.jar": "05b62804441b0c9a1920b6b7d5cf7329a4e24b6258478e32b1f046ca01900946",
     "kotlin-stdlib-jdk7-1.8.0.jar": "4c889d1d9803f5f2eb6c1592a6b7e62369ac7660c9eee15aba16fec059163666",
     "kotlin-stdlib-1.8.0.jar": "c77bef8774640b9fb9d6e217459ff220dae59878beb7d2e4b430506feffc654e",
